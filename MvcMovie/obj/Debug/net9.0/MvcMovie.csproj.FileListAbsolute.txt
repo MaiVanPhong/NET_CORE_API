@@ -15,7 +15,6 @@ C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.CoreCompileInputs.cach
 C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
 C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\MvcMovie.RazorAssemblyInfo.cache
 C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\MvcMovie.RazorAssemblyInfo.cs
-C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
 C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
